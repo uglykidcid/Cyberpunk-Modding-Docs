@@ -178,6 +178,7 @@ Use only one main archive! \[[#\_nim\_more\_body\_meshes\_Gymfiend\_patch.archiv
 | [KS Lion's Lush Body](https://www.nexusmods.com/cyberpunk2077/mods/4901)                    | Lush     | `&body=lush`       |
 | [KS Lion's SoLush Body](https://www.nexusmods.com/cyberpunk2077/mods/8392)                  | Lush     | `&body=lush`       |
 | [KS Solo Ultimate](https://www.nexusmods.com/cyberpunk2077/mods/6944)                       | Ult      | `&body=ult`        |
+| [KS Solo 2.0](https://www.nexusmods.com/cyberpunk2077/mods/15869)                           | Solo_OG  | `&body=solo_og`    |
 | [KS Songbird 2.0](https://www.nexusmods.com/cyberpunk2077/mods/12898)                       | Song2    | `&body=song2`      |
 | [Hyst's Angel Body Mod](https://www.nexusmods.com/cyberpunk2077/mods/14896?tab=description) | Angel    | `&body=angel`      |
 | [Hyst's Big Butt](https://www.nexusmods.com/cyberpunk2077/mods/4420)                        | RB       | `&body=rb`         |
